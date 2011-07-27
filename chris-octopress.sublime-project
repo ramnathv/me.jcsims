@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/chris/programming/chris_octopress/_config.yml",
+			"settings":
+			{
+				"buffer_size": 1421,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chris/programming/chris_octopress/Rakefile",
+			"settings":
+			{
+				"buffer_size": 9581,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chris/programming/chris_octopress/source/_posts/2011-07-07-added-wishlist.markdown",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chris/programming/chris_octopress/source/wishlist/index.markdown",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chris/programming/chris_octopress/source/_posts/2011-07-26-yet-another-switching-to-octopress.markdown",
+			"settings":
+			{
+				"buffer_size": 506,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/octopress.sublime-build",
+	"command_palette":
+	{
+		"height": 95,
+		"selected_items":
+		[
+		],
+		"width": 392
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chris/programming/chris_octopress/source/_includes/navigation.html",
+		"/Users/chris/programming/chris_octopress/source/_posts/2011-07-13-additions-to-the-orange-crush.markdown",
+		"/Users/chris/programming/chris_octopress/source/_posts/2011-07-26-yet-another-switching-to-octopress.markdown",
+		"/Users/chris/programming/chris_octopress/source/about/index.markdown",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/User/octopress.sublime-build",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/User/nanoc.sublime-build",
+		"/Users/chris/programming/chris_octopress/source/wishlist/index.markdown",
+		"/Users/chris/.ssh/known_hosts",
+		"/Users/chris/.bash_profile",
+		"/Users/chris/programming/chris_octopress/.git/TAG_EDITMSG",
+		"/Users/chris/Downloads/git-flow-completion.bash",
+		"/Users/chris/Downloads/recipes/GrilledAubergine.txt",
+		"/Users/chris/Dropbox/misc_info/kasey_locations",
+		"/Users/chris/Dropbox/misc_info/project_ideas",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/User/hello_world.py",
+		"/Users/chris/programming/Frameworks/iphoneCloudSync/iphonecouchsync/README.md",
+		"/Users/chris/programming/Programming-iOS-4-Book-Examples/p740XML/p740XML/folks.xml",
+		"/Applications/Titanium Studio/full_uninstall.txt",
+		"/Users/chris/Dropbox/misc_info/free_time",
+		"/Users/chris/Downloads/android-sdk-mac_x86/SDK Readme.txt",
+		"/Users/chris/Downloads/android-sdk-mac_x86/tools/adb_has_moved.txt",
+		"/Users/chris/programming/rails/broadleafgolem_www/blg.sublime-project.sublime-project",
+		"/Users/chris/programming/rails/broadleafgolem_www/Rakefile",
+		"/Users/chris/programming/rails/broadleafgolem_www/layouts/default.html",
+		"/Users/chris/programming/rails/broadleafgolem_www/Rules",
+		"/Users/chris/programming/rails/broadleafgolem_www/config.yaml",
+		"/Users/chris/programming/rails/broadleafgolem_www/content/blog.html",
+		"/Users/chris/programming/rails/broadleafgolem_www/lib/default.rb",
+		"/Users/chris/programming/rails/broadleafgolem_www/content/about.html",
+		"/Users/chris/programming/rails/broadleafgolem_www/content/index.html",
+		"/Users/chris/programming/rails/broadleafgolem_www/content/stylesheet.css",
+		"/Users/chris/programming/rails/broadleafgolem_www/README.md",
+		"/Users/chris/programming/rails/broadleafgolem_www/lib/tags.rb",
+		"/Users/chris/programming/rails/broadleafgolem_www/output/index.html",
+		"/Users/chris/programming/rails/depot/db/migrate/20110503032718_create_products.rb",
+		"/Users/chris/Downloads/mac_os_x10.6.8_10k531_seed_note.rtf",
+		"/Users/chris/programming/cs75/home.php",
+		"/Volumes/NO NAME/FW_RTC.txt",
+		"/Users/chris/programming/cs75/README",
+		"/Users/chris/Dropbox/misc_info/Bulgogi_Recipe.txt",
+		"/Users/chris/programming/MoveMe/MoveMe/DisplayStrings.txt",
+		"/Users/chris/Downloads/cgcookie_vehicle_modeling_series_source_files/Readme.txt",
+		"/Users/chris/Downloads/CG Cookie - 2010 Blender Training-6/readme_license.txt",
+		"/Users/chris/Library/Application Support/Lugaru 2/Data/config.txt",
+		"/Users/chris/Downloads/mac_os_x10.6.8_10k524_seed_note.rtf",
+		"/Users/chris/todo",
+		"/Volumes/Storage/iTunes/iTunes Music Library.xml",
+		"/Volumes/Storage/Dexter/Dexter Season 5/TSV.txt",
+		"/Users/chris/Downloads/redsn0w_mac_0.9.6rc16/credits.txt",
+		"/Users/chris/Dropbox/Public/How to use the Public folder.rtf",
+		"/Users/chris/programming/rails/demo/app/views/say/goodbye.html.erb",
+		"/Users/chris/programming/rails/demo/app/views/say/hello.html.erb",
+		"/Users/chris/programming/rails/demo/app/views/layouts/application.html.erb",
+		"/Users/chris/programming/rails/demo/Rakefile",
+		"/Users/chris/programming/rails/demo/README",
+		"/Volumes/RCDefaultApp-2.1.X/RCDefaultApp.prefPane/Contents/Resources/English.lproj/README.rtf",
+		"/Users/chris/Desktop/MS Visual Studio 2K10 Ultimate RTM [ALTAIR1607]/README.NFO",
+		"/Users/chris/download.html",
+		"/Users/chris/programming/zzzzzzzzzzzz/src/engine.c",
+		"/Users/chris/programming/We Rule Companion/README.MD",
+		"/howto.txt",
+		"/Users/chris/Dropbox/misc_info/dream_job",
+		"/Users/chris/Dropbox/misc_info/sublime_2_license",
+		"/Users/chris/Dropbox/Archive/School Docs/Winter 2010/PHYS222/physics_final_review",
+		"/Users/chris/Downloads/GitX-codaplugin-2.0/README.markdown",
+		"/Users/chris/Dropbox/School Docs/ENGR 270/final_notes.txt",
+		"/Users/chris/Dropbox/Archive/School Docs/Winter 2010/CSE224/final_notes",
+		"/Users/chris/Downloads/3GW_Snake_Final/levels/level10",
+		"/Users/chris/Downloads/synergy-1.4.2-MacOSX106-Universal/doc/synergy.conf"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/Users/chris/programming/chris_octopress"
+		]
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/chris/programming/chris_octopress/_config.yml",
+					"settings":
+					{
+						"buffer_size": 1421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 109,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/chris/programming/chris_octopress/Rakefile",
+					"settings":
+					{
+						"buffer_size": 9581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2977,
+								2977
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/chris/programming/chris_octopress/source/_posts/2011-07-07-added-wishlist.markdown",
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/chris/programming/chris_octopress/source/wishlist/index.markdown",
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/chris/programming/chris_octopress/source/_posts/2011-07-26-yet-another-switching-to-octopress.markdown",
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 500,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/chris/programming/rails/chrissims_www/chrissims_www.sublime-project"
+			]
+		],
+		"width": 380
+	},
+	"show_minimap": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250,
+	"status_bar_visible": true
+}
