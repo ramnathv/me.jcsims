@@ -1,4 +1,4 @@
-.button {
+.squishy_button {
   display: inline-block;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -11,10 +11,10 @@
   transition: all 0.2s ease-in-out;
 }
 
-.button span {
+.squishy_button span {
   display: inline-block;
   padding: 10px 20px;
-  font-family: 'LeagueGothicRegular', sans-serif;
+  font-family: sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   line-height: 1;
@@ -33,7 +33,7 @@
   transition: all 0.2s ease-in-out;
 }
 
-.button:active {
+.squishy_button:active {
   -webkit-transition: -webkit-transform 0s ease-in-out;
   -moz-transition: -moz-transform 0s ease-in-out;
   transition: transform 0s ease-in-out;
@@ -42,7 +42,7 @@
   box-shadow: 0 8px 0 #823a17,  0 12px 10px rgba(0, 0, 0, .3);
 }
 
-.button:active span {
+.squishy_button:active span {
   -webkit-transition: -webkit-transform 0s ease-in-out;
   -moz-transition: -moz-transform 0s ease-in-out;
   transition: transform 0s ease-in-out;
