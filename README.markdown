@@ -2,6 +2,9 @@
 
 This is the source for my [personal site][1].  There really isn't much changed from [octopress][2], so feel free to fork that instead.
 
+[1]: http://chrissims.org
+[2]: http://octopress.org/
+
 #License
 
 (The MIT License)
