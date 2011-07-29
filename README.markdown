@@ -1,15 +1,17 @@
 ## chrissims.org
 
-This is the source for my [personal site][1].  There really isn't much changed from [octopress][2], so feel free to fork that instead.
+This is the source for my [personal site][1].  It runs on [octopress][2] ([source][3]), with only theme changes.  It's a great framework, and I highly recommend it.
 
 [1]: http://chrissims.org
 [2]: http://octopress.org/
+[3]: https://github.com/imathis/octopress
 
 #License
 
 (The MIT License)
 
 Copyright © 2009-2011 Brandon Mathis
+
 Written Content Copyright © 2011 Chris Sims
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
