@@ -1,18 +1,9 @@
-## What is Octopress?
+## chrissims.org
 
-Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
+This is the source for my [personal site][1].  There really isn't much changed from [octopress][2], so feel free to fork that instead.
 
-1. **Octopress sports a clean responsive theme** written in semantic HTML5, focused on readability and friendliness toward mobile devices.
-2. **Code blogging is easy and beautiful.** Embed code (with [Solarized](http://ethanschoonover.com/solarized) styling) in your posts from gists or from your filesystem.
-3. **Third party integration is simple** with built-in support for Twitter, Pinboard, Delicious, Disqus Comments, and Google Analytics.
-4. **It's easy to use.** A collection of rake tasks simplifies development and makes deploying a cinch.
-5. **Ships with great plugins** some original and others from the Jekyll community &mdash; tested and improved.
+#License
 
-## Documentation
-
-Check out [Octopress.org](http://octopress.org/docs) for guides and documentation.
-
-## License
 (The MIT License)
 
 Copyright © 2009-2011 Brandon Mathis
@@ -23,6 +14,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-#### If you want to be awesome.
+If you want to be awesome.
+
 - Proudly display the 'Powered by Octopress' credit in the footer.
 - Add your site to the wiki so we can watch the community grow.
