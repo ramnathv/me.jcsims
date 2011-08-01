@@ -9,4 +9,4 @@ footer: false
 
 **[kasey][1]**: a simple site used for students to learn about my wife's duties in the NOAA Corps
 
-[1]: /projects/kasey/
+[1]: http://kasey.chrissims.org
