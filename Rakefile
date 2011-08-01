@@ -61,7 +61,7 @@ task :new_post, :title do |t, args|
   require './plugins/titlecase.rb'
   args.with_defaults(:title => 'new-post')
   title = args.title
-  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.downcase.gsub(/&/,'and').gsub(/[,\.'":\(\)\[\]]/,'').gsub(/\W/, '-')}.#{new_post_ext}"
+  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.downcase.gsub(/&/,'and').gsub(/[,'":\?!\(\)\[\]]/,'').gsub(/[\W\.]/, '-').gsub(/-+$/,'')}.#{new_post_ext}"
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     system "mkdir -p #{source_dir}/#{posts_dir}";
@@ -127,6 +127,10 @@ end
 desc "Move sass to sass.old, install sass theme updates, replace sass/custom with sass.old/custom"
 task :update_style, :theme do |t, args|
   theme = args.theme || 'classic'
+  if File.directory?("sass.old")
+    puts "removed existing sass.old directory"
+    system "rm -r sass.old"
+  end
   system "mv sass sass.old"
   puts "## Moved styles into sass.old/"
   system "mkdir -p sass; cp -R #{themes_dir}/"+theme+"/sass/ sass/"
@@ -137,11 +141,15 @@ end
 desc "Move source to source.old, install source theme updates, replace source/_includes/navigation.html with source.old's navigation"
 task :update_source, :theme do |t, args|
   theme = args.theme || 'classic'
+  if File.directory?("#{source_dir}.old")
+    puts "removed existing #{source_dir}.old directory"
+    system "rm -r #{source_dir}.old"
+  end
   system "mv #{source_dir} #{source_dir}.old"
   puts "moved #{source_dir} into #{source_dir}.old/"
   system "mkdir -p #{source_dir}; cp -R #{themes_dir}/"+theme+"/source/. #{source_dir}"
   system "cp -Rn #{source_dir}.old/. #{source_dir}"
-  system "cp -f #{source_dir}.old/_includes/navigation.html #{source_dir}/_includes/navigation.html"
+  system "cp -Rf #{source_dir}.old/_includes/custom/. #{source_dir}/_includes/custom/"
   puts "## Updated #{source_dir} ##"
 end
 
