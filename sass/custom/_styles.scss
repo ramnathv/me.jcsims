@@ -1,0 +1,16 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+.header-img {
+	float: left;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	margin-right: 10px;
+	box-shadow: 4px 4px 5px #000;
+}
+
+.social-icons {
+    float: right;
+    margin: 5px;
+}
