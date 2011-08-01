@@ -38,7 +38,7 @@ module Jekyll
     end
 
     def render(context)
-      code_dir = (context.registers[:site].config['code_dir'] || 'downloads/code')
+      code_dir = (context.registers[:site].config['code_dir'].sub(/^\//,'') || 'downloads/code')
       code_path = (Pathname.new(context.registers[:site].source) + code_dir).expand_path
       file = code_path + @file
 
@@ -59,10 +59,6 @@ module Jekyll
         url = "#{context.registers[:site].config['url']}/#{code_dir}/#{@file}"
         source = "<div><figure role=code><figcaption><span>#{title}</span> <a href='#{url}'>download</a></figcaption>\n"
         source += " #{highlight(code, @filetype)}</figure></div>"
-        partial = Liquid::Template.parse(source)
-        context.stack do
-          partial.render(context)
-        end
       end
     end
   end
