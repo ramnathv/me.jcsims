@@ -7,6 +7,6 @@ sharing: false
 footer: false
 ---
 
-**[kasey][1]**: a simple framework to tie together tasks and your calendar
+**[kasey][1]**: a simple site used for students to learn about my wife's duties in the NOAA Corps
 
 [1]: /projects/kasey/
