@@ -6,7 +6,7 @@ url: http://chrissims.org
 title: chris sims
 subtitle: A bit about me
 author: Chris Sims
-simple_search: http://google.com/search
+simple_search: http://google.com/search?q=site%3Achrissims.org
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
@@ -40,7 +40,7 @@ recent_posts: 5 # Posts in the sidebar Recent Posts section
 # Twitter
 twitter_user: jcsims
 twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true

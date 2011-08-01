@@ -10,6 +10,8 @@ footer: false
 My name is Chris Sims, and I am a computer science student.  I grew up in the Vancouver, WA area, and will be relocating to the
 East Coast later this year.  I'm married to a beautiful woman, [Kasey Sims](https://www.facebook.com/profile.php?id=25907126).
 
+Hit the links on the footer for the rest of my presence on the web.
+
 
 ## Work
 
@@ -18,9 +20,3 @@ used to test speakers to obtain subjective test results.  I coded in C# and C++,
 DirectShow APIs, and Silverlight.
 
 I'm really enthusiastic about developing for the web, specifically HTML5, CSS3, and ruby.
-
-Find me on [LinkedIn](http://www.linkedin.com/pub/chris-sims/16/655/883).
-
-##Personal
-
-Find me on [Facebook](http://facebook.com/jcsims).
