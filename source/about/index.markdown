@@ -19,7 +19,8 @@ I just completed a 3-month internship for Logitech, at the Camas site.  I worked
 used to test speakers to obtain subjective test results.  I coded in C# and C++, and used the .NET Framework, 
 DirectShow APIs, and Silverlight.
 
-I'm really enthusiastic about developing for the web, specifically HTML5, CSS3, and ruby.
+I'm really enthusiastic about developing for the web, specifically HTML5, CSS3, and Ruby on
+Rails.
 
 ## About This Site
 
