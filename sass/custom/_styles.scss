@@ -14,4 +14,9 @@
 .social-icons {
     float: right;
     margin: 5px;
+    opacity: .65;
+}
+
+.social-icons:hover {
+  opacity: 1;
 }

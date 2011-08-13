@@ -15,8 +15,8 @@ Hit the links on the footer for the rest of my presence on the web.
 
 ## Work
 
-I just completed a 3-month internship for Logitech, at the Camas site.  I worked on an internal product
-used to test speakers to obtain subjective test results.  I coded in C# and C++, and used the .NET Framework, 
+In June, I completed a 3-month internship for Logitech at their Camas site.  I worked on an internal product
+used to test speakers to obtain subjective test results.  I coded in C# and C++, and used the .NET Framework,
 DirectShow APIs, and Silverlight.
 
 I'm really enthusiastic about developing for the web, specifically HTML5, CSS3, and Ruby on
@@ -26,8 +26,11 @@ Rails.
 
 This site is powered by [octopress][2], a great Jekyl-based blogging framework.
 
-The social media links in the footer can be found [here][3].
+The social media links in the footer are borrowed from [Komodo Media][3].
+
+The github icon was borrowed from [Burin Asavesna][4].
 
 [1]: https://www.facebook.com/profile.php?id=25907126
 [2]: http://octopress.org
-[3]: http://icondock.com/free/vector-social-media-icons
+[3]: http://www.komodomedia.com
+[4]: http://helloburin.com/2010/09/20/github-social-icon/
