@@ -5,6 +5,7 @@ date: 2011-08-09 21:20
 comments: true
 categories: [open source, calagator, openhatch]
 ---
+**Update 2:** The event calendar is now live at [events.openhatch.org][7]!
 
 **Update:** Asheesh from OpenHatch put up my fork of calagator for some testing [here][6].  Check it out!
 
@@ -16,3 +17,4 @@ I recently did some work for [openhatch][1], doing a quick and dirty theme for [
 [4]: https://gist.github.com/1136129
 [5]: https://github.com/jcsims/calagator/tree/openhatch_theme
 [6]: http://calendar-beta.openhatch.org/
+[7]: http://events.openhatch.org
