@@ -2,17 +2,17 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://chrissims.org
-title: Chris Sims
+url: http://jcsims.me
+title: jcsims.me
 subtitle: A bit about me
 author: Chris Sims
-simple_search: http://google.com/search?q=site%3Achrissims.org
+simple_search: http://google.com/search?q=site%3Ajcsims.me
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: chris@chrissims.org
+email: chris@jcsims.me
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -76,7 +76,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: chrissims
+disqus_short_name: jcsimsme
 
 # Google Analytics
-google_analytics_tracking_id: UA-24843568-1
+google_analytics_tracking_id: UA-25702539-1
