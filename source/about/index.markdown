@@ -30,7 +30,10 @@ The social media links in the footer are borrowed from [Komodo Media][3].
 
 The github icon was borrowed from [Burin Asavesna][4].
 
+The amazon icon was borrowed from the [Vector Social Media Icon Pack][5].
+
 [1]: https://www.facebook.com/profile.php?id=25907126
 [2]: http://octopress.org
 [3]: http://www.komodomedia.com
 [4]: http://helloburin.com/2010/09/20/github-social-icon/
+[5]: http://icondock.com/free/vector-social-media-icons
