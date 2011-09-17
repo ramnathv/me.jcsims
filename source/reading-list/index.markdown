@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Reading List"
-date: 2011-09-17 09:05
 comments: false
 sharing: false
-footer: true
+footer: false
 ---
 Next Up:
 --------
