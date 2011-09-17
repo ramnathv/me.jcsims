@@ -5,6 +5,7 @@ comments: false
 sharing: false
 footer: false
 ---
+![here's looking at you][chris_img]
 
 My name is Chris Sims, and I am a computer science student.  I grew up in the Vancouver, WA area, and will be relocating to the
 East Coast later this year.  I'm married to a beautiful woman, [Kasey Sims][1].
@@ -31,6 +32,7 @@ The github icon was borrowed from [Burin Asavesna][4].
 
 The amazon icon was borrowed from the [Vector Social Media Icon Pack][5].
 
+[chris_img]: /images/chris2.png
 [1]: https://www.facebook.com/profile.php?id=25907126
 [2]: http://octopress.org
 [3]: http://www.komodomedia.com
