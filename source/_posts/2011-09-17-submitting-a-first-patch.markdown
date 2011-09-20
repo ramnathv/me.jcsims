@@ -3,7 +3,7 @@ layout: post
 title: "Submitting a First Patch"
 date: 2011-09-17 19:22
 comments: true
-categories: [open source, github]
+categories: [open source, github, octopress]
 ---
 
 I just submitted my first [pull request][pull] to fix an [issue][issue] with my blogging platform of choice, octopress.

@@ -3,7 +3,7 @@ layout: post
 title: "Recursively deleting a file"
 date: 2011-09-17 17:50
 comments: true
-categories: [command line, osx]
+categories: [command line, osx, octopress]
 ---
 
 I ran into a small bug in the latest pull from the octopress source.  It was complaining about .DS_Store files:
