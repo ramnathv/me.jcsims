@@ -2,7 +2,7 @@
 date: 2011-07-15
 layout: post
 comments: true
-categories: programming, open-source
+categories: [programming, open source]
 title: "Opening The Hatch"
 ---
 

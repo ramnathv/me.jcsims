@@ -2,7 +2,7 @@
 date: 2011-07-08 17:52
 layout: post
 comments: true
-categories: mac, osx, terminal
+categories: [mac, osx, terminal]
 title: "Unhide Library In Lion"
 ---
 

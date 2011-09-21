@@ -2,7 +2,7 @@
 date: 2011-07-13 21:30
 layout: post
 comments: true
-categories: ktm, diy
+categories: [ktm, diy]
 title: "Additions To The Orange Crush"
 ---
 

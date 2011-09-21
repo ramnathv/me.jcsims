@@ -2,7 +2,7 @@
 date: 2011-07-11 10:12
 layout: post
 comments: true
-categories: osx, backup, cloud
+categories: [osx, backup, cloud]
 title: "Using Dolly Drive"
 ---
 
