@@ -77,6 +77,10 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: jcsimsme
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-25702539-1
+
+# Facebook Like
+facebook_like: true
