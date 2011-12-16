@@ -7,7 +7,7 @@ footer: false
 ---
 Currently Reading:
 ------------------
-![rails tutorial][rails_tutorial_img]{: .book_cover} [Ruby on Rails Tutorial][rails_tutorial]
+![cocoa][cocoa_cover]{: .book_cover} [Cocoa Programming for Mac OS X (4th Edition)][cocoa]
 
 Next Up:
 --------
@@ -31,6 +31,8 @@ Next Up:
 
 Past Reading:
 -------------
+![rails tutorial][rails_tutorial_img]{: .book_cover} [Ruby on Rails Tutorial][rails_tutorial]
+
 ![html5 for web designers][html5_cover]{: .book_cover} [HTML5 for Web Designers][html5]
 
 ![programming ruby][ruby_cover]{: .book_cover} [Programming Ruby 1.9][ruby]
@@ -49,11 +51,12 @@ Past Reading:
 [sass_image]:         /images/books/sass.jpg
 [coffeescript_image]: /images/books/coffeescript.jpg
 [rails_tutorial_img]: /images/books/rails_tutorial.png
-[html5_cover]:         /images/books/html5.png
+[html5_cover]:        /images/books/html5.png
 [css3_cover]:         /images/books/css3.png
 [responsive_cover]:   /images/books/responsive.png
 [emotion_cover]:      /images/books/emotion.png
 [mobile_first_cover]: /images/books/mobile_first.png
+[cocoa_cover]: 				/images/books/cocoa.png
 
 [rbp]:            http://www.codeschool.com/courses/rails-best-practices
 [rails]:          http://pragprog.com/book/rails4/agile-web-development-with-rails
@@ -69,3 +72,4 @@ Past Reading:
 [responsive]:     http://www.abookapart.com/products/responsive-web-design
 [emotion]:        http://www.abookapart.com/products/designing-for-emotion
 [mobile]:         http://www.abookapart.com/products/mobile-first
+[cocoa]: 					http://www.bignerdranch.com/book/cocoa_programming_for_mac_os_x_th_edition_

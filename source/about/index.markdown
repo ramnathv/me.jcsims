@@ -7,15 +7,14 @@ footer: false
 ---
 ![here's looking at you][chris_img]
 
-My name is Chris Sims, and I am a computer science student.  I grew up in the Vancouver, WA area, and will be relocating to the
-East Coast later this year.  I'm married to a beautiful woman, [Kasey Sims][1].
+My name is Chris Sims, and I am a computer science student.  I grew up in the Vancouver, WA area, and recently relocated to Rhode Island.  I'm married to a beautiful woman, [Kasey Sims][1].
 
 Hit the links on the footer for the rest of my presence on the web.
 
 
 ## Work
 
-In June, I completed a 3-month internship for Logitech at their Camas site.  I worked on an internal product
+In June of 2011, I completed a 3-month internship for Logitech at their Camas site.  I worked on an internal product
 used to test speakers to obtain subjective test results.  I coded in C# and C++, and used the .NET Framework,
 DirectShow APIs, and Silverlight.
 
